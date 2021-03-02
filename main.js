@@ -14,9 +14,9 @@ let { spawnSync } = require('child_process')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['529984907794@s.whatsapp.net'] // Put your number here
-global.mods = ['529984907794@s.whatsapp.net'] // Want some help?
-global.prems = ['529984907794@s.whatsapp.net'] // Premium user has unlimited limit
+global.owner = ['529991256032@s.whatsapp.net'] // Put your number here
+global.mods = ['529991256032@s.whatsapp.net'] // Want some help?
+global.prems = ['529991256032@s.whatsapp.net'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
